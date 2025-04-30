@@ -1,18 +1,35 @@
-# Cloud Journey
+# Cloud Support Journey
 
-## About
+Documenting my path toward becoming a Cloud Support Associate.
 
-Documenting my learning and hands-on practice as I work toward a Cloud Support Associate role.
+---
+
+## Why this repo?
+
+- Track daily and weekly learning progress
+- Build a habit of writing and reflecting
+- Show consistency and growth to future employers
+
+---
+
+## Learning Log
+
+- **April 28, 2025**: Completed Module 1 of AWS Cloud Practitioner Essentials. Set up this repo and began documenting my journey. Will update every Sunday or Monday.
+
+---
+
+## Quick Notes
+
+- **Cloud Computing**: Renting computing resources over the Internet.
+- **Benefits**: Cost savings, scalability, flexibility.
+- **EC2 Instances**: Like staff in a boba shop,different instance types do different tasks based on their "skills" (compute, memory, storage).
+
+_For deeper notes, see `/notes/` (coming soon)._
+
+---
 
 ## Goals
 
-- Earn AWS Cloud Practitioner certification.
-- Build and push real cloud labs and practice projects.
-- Land my first role in Cloud Support.
-
-## Daily Logs
-
-- Day 1: Setup repo, completed Module 1 of AWS Essentials, took notes in Notion. Will make flashcards on Anki for important Q&A.
-- Defined Cloud Computing
-- Key benefits: cost savings, scalability, elasticity
-- Types of cloud deployment: public, private, hybrid
+- Finish AWS Certified Cloud Practitioner
+- Build job ready cloud knowledge and experience
+- Land a Cloud Support role in 6–8 months
