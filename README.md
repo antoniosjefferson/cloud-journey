@@ -16,6 +16,8 @@ Documenting my path toward becoming a Cloud Support Associate.
 
 - **April 28, 2025**: Completed Module 1 of AWS Cloud Practitioner Essentials. Set up this repo and began documenting my journey. Will update every Sunday or Monday.
 
+- **May 5, 2025**: Completed Module 2 of the AWS course. Created personal flashcards in Anki to master core concepts. Confident this will pay off.
+
 ---
 
 ## AWS Cloud Anki Cards
