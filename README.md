@@ -18,6 +18,8 @@ Documenting my path toward becoming a Cloud Support Associate.
 
 - **May 5, 2025**: Completed Module 2 of the AWS course. Created personal flashcards in Anki to master core concepts. Confident this will pay off.
 
+- **May 12, 2025**: Busy life week, but I completed Module 3 of the course in one day (today) to catch up after a slow week. Anki cards are in and studying them has started. Going to pick up the pace this week to stay on track to finish the AWS Cloud Practitioner Essentials course by mid June.
+
 ---
 
 ## AWS Cloud Anki Cards
